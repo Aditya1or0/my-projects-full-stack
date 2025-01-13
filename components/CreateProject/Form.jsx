@@ -164,7 +164,7 @@ function Form() {
           className="w-full mb-4 outline-blue-400 border-[1px] p-2 rounded-md disabled:opacity-50"
           onChange={handleChange}
           required
-          rows={5}
+          rows={10}
           disabled={isSubmitting}
           placeholder="Write Description here"
         />
