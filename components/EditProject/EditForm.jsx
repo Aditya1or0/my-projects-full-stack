@@ -175,6 +175,7 @@ function EditForm({ projectId }) {
           onChange={handleChange}
           value={inputs.desc}
           required
+          rows={10}
           disabled={isSubmitting}
           placeholder="Write Description here"
         />
