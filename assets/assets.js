@@ -114,6 +114,14 @@ const Technology = [
     id: 19,
     name: "others",
   },
+  {
+    id: 20,
+    name: "Supabase",
+  },
+  {
+    id: 20,
+    name: "Redux Toolkit",
+  },
 ];
 
 export default {
